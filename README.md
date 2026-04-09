@@ -70,13 +70,13 @@ Al finalizar el curso, el participante será capaz de:
 ## 📂 Contenido del repositorio
 
 ```bash
-├── data/    # Input datasets (CSV format)
+├── data/                # Input datasets (CSV format)
 ├── notebooks/
-│ ├── day1/ # Foundational models
-│ ├── day2/ # Advanced models and evaluation
-│ └── day3/ # Deep Learning
-├── assets/ # Visual resources (logos, figures)
-├── requirements.txt # Python dependencies
+│ ├── day1/              # Foundational models
+│ ├── day2/              # Advanced models and evaluation
+│ └── day3/              # Deep Learning
+├── assets/              # Visual resources (logos, figures)
+├── requirements.txt     # Python dependencies
 └── README.md
 ```
 
@@ -115,6 +115,11 @@ cd <repo_name>
 ```
 
 2. Abrir el proyecto en Visual Studio Code:
+
+<p align="center">
+  <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmESvWFqgy6FNrwzWSIu2lzePyWSz8zg09RAX43OFexidzEE3_7l3auaKk4w9ktJdqg-&format=source" 
+       width="15%"/>
+</p>
 
 ```bash
 code .
