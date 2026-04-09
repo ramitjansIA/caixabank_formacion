@@ -199,7 +199,7 @@ Porque en entornos financieros:
 
 ## 📬 Contacto
 
-Para dudas, mejoras o sugerencias, se recomienda utilizar los issues del repositorio. También puedes enviar un correo a (sergi.ramirez@upc.edu)[sergi.ramirez@upc.edu]
+Para dudas, mejoras o sugerencias, se recomienda utilizar los issues del repositorio. También puedes enviar un correo a sergi.ramirez@upc.edu
 
 ---
 
