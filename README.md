@@ -38,32 +38,33 @@ Al finalizar el curso, el participante será capaz de:
 
 ## 🧱 Estructura del curso
 
+[Presentación de los modelos]()
+
 ### 📅 Día 1 · Fundamentos del Machine Learning
 
 * Introducción a modelos supervisados
-* Regresión logística (GLM)
-* Árboles de decisión
-* Random Forest
+* [Regresión logística (GLM)](notebooks/day1/01_glm_regresion_logistica.ipynb)
+* [Árboles de decisión](notebooks/day1/02_arboles_de_decision.ipynb)
+* [Random Forest](notebooks/day1/03_random_forest.ipynb)
 
 ---
 
 ### 📅 Día 2 · Modelos avanzados e interpretabilidad
 
-* Recapitulación y corrección de ejercicios
-* Boosting: AdaBoost, XGBoost, CatBoost
-* Support Vector Machine (SVM)
-* Evaluación de modelos
-* Interpretabilidad
-* Redes neuronales (ANN)
+* [Recapitulación y corrección de ejercicios](notebooks/day2/04_recapitulacion_y_correccion.ipynb)
+* [Boosting: AdaBoost, XGBoost, CatBoost](notebooks/day2/05_boosting_xgboost_adaboost_catboost.ipynb)
+* [Support Vector Machine (SVM)](notebooks/day2/06_svm.ipynb)
+* [Evaluación e Interpretación de modelos](notebooks/day2/07_evaluacion_e_interpretabilidad.ipynb)
+* [Redes neuronales (ANN)](notebooks/day2/08_ann_deep_learning.ipynb)
 
 ---
 
 ### 📅 Día 3 · Deep Learning
 
-* Recapitulación y corrección de ejercicios
-* Redes neuronales convolucionales (CNN)
-* Transfer Learning
-* End-to-end: Aplicación del modelaje
+* [Recapitulación y corrección de ejercicios](notebooks/day3/9_recap_y_cierre.ipynb)
+* [Redes neuronales convolucionales (CNN)](notebooks/day3/10_cnn_master_plus.ipynb)
+* [Transfer Learning](notebooks/day3/11_huggingface_finetuning_master_plus.ipynb)
+* [End-to-end: Aplicación del modelaje](notebooks/day3/12_caso_banca_end_to_end_master_plus.ipynb)
   
 ---
 
