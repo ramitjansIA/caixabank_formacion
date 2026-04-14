@@ -65,7 +65,7 @@ Al finalizar el curso, el participante será capaz de:
 * [Redes neuronales convolucionales (CNN)](notebooks/day3/10_cnn_master_plus.ipynb)
 * [Transfer Learning](notebooks/day3/11_huggingface_finetuning_master_plus.ipynb)
 * [End-to-end: Aplicación del modelaje](notebooks/day3/12_caso_banca_end_to_end_master_plus.ipynb)
-  
+
 ---
 
 ## 📂 Contenido del repositorio
