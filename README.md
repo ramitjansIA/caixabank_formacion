@@ -38,14 +38,14 @@ Al finalizar el curso, el participante será capaz de:
 
 ## 🧱 Estructura del curso
 
-[Presentación de los modelos]()
-
 ### 📅 Día 1 · Fundamentos del Machine Learning
 
-* Introducción a modelos supervisados
-* [Regresión logística (GLM)](notebooks/day1/01_glm_regresion_logistica.ipynb)
-* [Árboles de decisión](notebooks/day1/02_arboles_de_decision.ipynb)
-* [Random Forest](notebooks/day1/03_random_forest.ipynb)
+[Presentación](26Workshop_dia1.pdf)
+
+* [Introducción a modelos supervisados](notebooks/day1/00_Generacion_Datos_y_Desbalanceo.ipynb)
+* [Regresión logística (GLM)](notebooks/day1/01_Regresion_Logistica_GLM.ipynb)
+* [Árboles de decisión](notebooks/day1/02_Arboles_Decision.ipynb)
+* [Random Forest](notebooks/day1/03_Random_Forest.ipynb)
 
 ---
 
