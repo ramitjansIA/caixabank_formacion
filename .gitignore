@@ -6,5 +6,6 @@ plantilla_headers.ipynb
 notebooks/day1/old
 notebooks/day2/old
 notebooks/day3/old
+.venv_tf
 data/old
 notebooks/day2/catboost_info
